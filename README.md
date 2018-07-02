@@ -15,4 +15,5 @@ This script adds a new "Download Course Map" button to the top right corner of t
 - Type of Canvas Element
 - URL of Element
 
-
+# Unstar All Courses
+This script adds a button at the top of the All Courses page which lets you unstar all courses with one click. This was created because new courses are automatically starred when you're enrolled in them, but having too many starred courses will clog your dashboard and crash the mobile app. 
